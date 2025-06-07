@@ -12,17 +12,25 @@
           <li>You’ll find a bunch of those right here – all crafted with care and a sprinkle of nerdy fun 🤓</li>
         </ul>
         <h4>Let's connect:</h4>
-        <a href="mailto:your.email@example.com"><img src="https://img.icons8.com/dusk/40/000000/new-post.png" alt="Email"></a>
-        <a href="https://yourpersonalwebsite.com"><img src="https://img.icons8.com/dusk/40/000000/internet--v1.png" alt="Website"></a>
-        <a href="https://twitter.com/yourhandle"><img src="https://img.icons8.com/dusk/40/000000/twitter.png" alt="Twitter"></a>
-        <a href="https://www.linkedin.com/in/yourprofile/"><img src="https://img.icons8.com/dusk/40/000000/linkedin.png" alt="LinkedIn"></a>
+        <a href="https://www.linkedin.com/in/luca-scardina/">
+        <img src="https://img.shields.io/badge/linkedin-%230077B5.svg?logo=linkedin&logoColor=white" alt="LinkedIn" target="_blank">
+        </a>
+        <hr>
+        <img src="https://img.shields.io/badge/Apple-383838?logo=apple&logoColor=white" alt="Apple">
+        <img src="https://img.shields.io/badge/Windows-0078D6?logo=windows&logoColor=white" alt="Windows">
+        <img src="https://img.shields.io/badge/Android-3DDC84?logo=android&logoColor=white" alt="Android"><br />
+        <img src="https://img.shields.io/badge/shell_script-%23121011.svg?logo=gnu-bash&logoColor=white" alt="Shell Script">
+        <img src="https://img.shields.io/badge/JSON-8A2BE2?logo=json&logoColor=white" alt="JSON">
+        <img src="https://img.shields.io/badge/xml-350087?logo=xml&logoColor=white" alt="XML"><br />
+        <img src="https://img.shields.io/badge/Jamf-002163?logo=devbox&logoColor=white" alt="Jamf">
+        <img src="https://img.shields.io/badge/InTune-0093CA?logo=devbox&logoColor=white" alt="InTune">
       </td>
     </tr>
     <tr>
       <td align="center" colspan="2">
         <p><i>Enjoying the content? Help me stay caffeinated while I debug stuff ☕</i></p>
-        <a href="https://www.buymeacoffee.com/yourhandle" target="_blank">
-          <img src="https://www.buymeacoffee.com/assets/img/custom_images/orange_img.png" alt="Buy Me A Coffee" style="height: 41px !important;width: 174px !important;box-shadow: 0px 3px 2px 0px rgba(190, 190, 190, 0.5) !important;-webkit-box-shadow: 0px 3px 2px 0px rgba(190, 190, 190, 0.5) !important;">
+        <a href="#" target="_blank">
+          <img src="https://img.shields.io/badge/Ko--fi-FF5E5B?logo=ko-fi&logoColor=white" alt="Ko-fi">
         </a>
       </td>
     </tr>
