@@ -2,7 +2,7 @@
 <table>
   <tbody>
     <tr>
-      <td><img src="https://c.tenor.com/GN73MKBawZYAAAAi/busy-cute.gif"></td>
+      <td><img src="https://media.tenor.com/I3RjM4xQO0kAAAAi/monitors-typing.gif"></td>
       <td>
         <ul>
           <li>Hey there, I’m <strong>Luca</strong> 👋</li>
@@ -13,7 +13,10 @@
         </ul>
         <h4>Let's connect:</h4>
         <a href="https://www.linkedin.com/in/luca-scardina/">
-        <img src="https://img.shields.io/badge/linkedin-%230077B5.svg?logo=linkedin&logoColor=white" alt="LinkedIn" target="_blank">
+        <img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=indeed&logoColor=white" alt="LinkedIn" target="_blank">
+        </a><br />
+        <a href="https://www.lukelab.it/">
+        <img src="https://img.shields.io/badge/Website-E75400.svg?logo=webtrees&logoColor=white" alt="Website" target="_blank">
         </a>
         <hr>
         <img src="https://img.shields.io/badge/Apple-383838?logo=apple&logoColor=white" alt="Apple">
@@ -21,17 +24,15 @@
         <img src="https://img.shields.io/badge/Android-3DDC84?logo=android&logoColor=white" alt="Android"><br />
         <img src="https://img.shields.io/badge/shell_script-%23121011.svg?logo=gnu-bash&logoColor=white" alt="Shell Script">
         <img src="https://img.shields.io/badge/JSON-8A2BE2?logo=json&logoColor=white" alt="JSON">
-        <img src="https://img.shields.io/badge/xml-350087?logo=xml&logoColor=white" alt="XML"><br />
+        <img src="https://img.shields.io/badge/XML-350087?logo=htmx&logoColor=white" alt="XML"><br />
         <img src="https://img.shields.io/badge/Jamf-002163?logo=devbox&logoColor=white" alt="Jamf">
         <img src="https://img.shields.io/badge/InTune-0093CA?logo=devbox&logoColor=white" alt="InTune">
       </td>
     </tr>
     <tr>
       <td align="center" colspan="2">
-        <p><i>Enjoying the content? Help me stay caffeinated while I debug stuff ☕</i></p>
-        <a href="#" target="_blank">
-          <img src="https://img.shields.io/badge/Ko--fi-FF5E5B?logo=ko-fi&logoColor=white" alt="Ko-fi">
-        </a>
+        <p><i>Enjoying the content? Help me stay caffeinated while I try to make stuff ☕</i></p>
+        <a href='https://ko-fi.com/N4N11G5OW8' target='_blank'><img height='36' style='border:0px;height:36px;' src='https://storage.ko-fi.com/cdn/kofi6.png?v=6' border='0' alt='Buy Me a Coffee at ko-fi.com' /></a>
       </td>
     </tr>
   </tbody>
