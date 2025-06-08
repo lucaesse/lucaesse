@@ -22,11 +22,14 @@
         <img src="https://img.shields.io/badge/Apple-383838?logo=apple&logoColor=white" alt="Apple">
         <img src="https://img.shields.io/badge/Windows-0078D6?logo=windows&logoColor=white" alt="Windows">
         <img src="https://img.shields.io/badge/Android-3DDC84?logo=android&logoColor=white" alt="Android"><br />
-        <img src="https://img.shields.io/badge/shell_script-%23121011.svg?logo=gnu-bash&logoColor=white" alt="Shell Script">
+        <img src="https://img.shields.io/badge/Shell_Script-%23121011.svg?logo=gnu-bash&logoColor=white" alt="Shell Script">
         <img src="https://img.shields.io/badge/JSON-8A2BE2?logo=json&logoColor=white" alt="JSON">
         <img src="https://img.shields.io/badge/XML-350087?logo=htmx&logoColor=white" alt="XML"><br />
         <img src="https://img.shields.io/badge/Jamf-002163?logo=devbox&logoColor=white" alt="Jamf">
         <img src="https://img.shields.io/badge/InTune-0093CA?logo=devbox&logoColor=white" alt="InTune">
+        <a href="https://github.com/pedromxavier/flag-badges">
+    <img src="https://raw.githubusercontent.com/pedromxavier/flag-badges/main/badges/IT.svg" alt="made in Italy">
+</a>
       </td>
     </tr>
     <tr>
