@@ -15,7 +15,7 @@
 
 ### 🔗 Let's connect
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/luca-scardina/)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=indeed&logoColor=white)](https://www.linkedin.com/in/luca-scardina/)
 [![Website](https://img.shields.io/badge/Website-E75400.svg?logo=webtrees&logoColor=white)](https://www.lukelab.it/)
 
 ---
@@ -23,7 +23,7 @@
 ### 🖥️ Tech I Use
 
 ![Apple](https://img.shields.io/badge/Apple-383838?logo=apple&logoColor=white)
-![Windows](https://img.shields.io/badge/Windows-0078D6?logo=windows&logoColor=white)
+![Windows](https://img.shields.io/badge/Windows-0078D6?logo=quarto&logoColor=white)
 ![Android](https://img.shields.io/badge/Android-3DDC84?logo=android&logoColor=white)
 
 ![Shell Script](https://img.shields.io/badge/Shell_Script-%23121011.svg?logo=gnu-bash&logoColor=white)
